@@ -1,0 +1,2 @@
+std::treambuf* coutfile(char* s);
+
